@@ -83,7 +83,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png(2400х3392)" width="280px" hspace="10px" alt="Диплом»">](file:///C:/Users/Сергей%20Долгов%202/Downloads/diplom.png)
+[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](file:///C:/Users/Сергей%20Долгов%202/Downloads/diplom.png)
 
 <br>
 <br>
