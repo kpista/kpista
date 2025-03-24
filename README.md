@@ -83,7 +83,7 @@
 <br>
 
 ## 🎒 Образование
-[<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/kpista/kpista/refs/heads/main/08523687fd6.png)
+[<img src="/08523687fd6.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/kpista/kpista/refs/heads/main/08523687fd6.png)
 
 <br>
 <br>
