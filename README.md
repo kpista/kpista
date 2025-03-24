@@ -78,7 +78,7 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки» мобильного тестирования">](https://github.com/kpista/kpista/blob/main/kristina_shilova-shop_it.png)
+[<img src="/certificate_auto.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки» мобильного тестирования">](https://raw.githubusercontent.com/kpista/kpista/refs/heads/main/kristina_shilova-shop_it.png)
 
 <br>
 
