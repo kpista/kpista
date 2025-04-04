@@ -72,15 +72,7 @@
 </div>
 
 <!-- Выбор картинок ↑↑: https://github.com/tandpfun/skill-icons --> 
-<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-icons/ --> 
-
-
-<br>
-
-## 🪴 Практика и стажировка
-[<img src="/kristina_shilova-shop_it.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки» мобильного тестирования">](https://raw.githubusercontent.com/kpista/kpista/refs/heads/main/kristina_shilova-shop_it.png)
-
-<br>
+<!-- Ещё выбор картинок ↑↑: https://github.com/marwin1991/profile-technology-
 
 
 <br>
